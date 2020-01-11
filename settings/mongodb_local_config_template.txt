@@ -1,0 +1,5 @@
+{
+	"username": "user",
+	"password": "pwd",
+	"cluster": "127.0.0.1"
+}
