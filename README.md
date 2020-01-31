@@ -8,7 +8,7 @@ The data should be collected using Python, Tweepy and MongoDB functions.
 
 To use this project for your own data collection you have to:
 
-1. Add your Twitter API keys in the file settings/config.txt
+1. Add your Twitter API keys in the file settings/twitter_config.txt
 2. Add your query terms in the file settings/queries.txt
 3. (Future) Add your information for the MongoDB access
 
